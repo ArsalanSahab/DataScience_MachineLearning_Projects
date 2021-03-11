@@ -4,7 +4,6 @@ astropy==4.0.1.post1
 attrs==19.3.0
 backcall==0.1.0
 beautifulsoup4==4.8.1
-bleach==3.1.5
 bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
